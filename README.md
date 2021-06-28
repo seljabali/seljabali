@@ -4,4 +4,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seljabali&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Languages and Tools:</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seljabali&layout=compact&hide=cmake,makefile,c&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seljabali&layout=compact&theme=tokyonight)
