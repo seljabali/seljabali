@@ -5,4 +5,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seljabali&layout=compact&hide=html,makefile,php,shell,ruby&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seljabali&layout=compact&hide=html,makefile,php,shell,ruby,hack&theme=tokyonight)
